@@ -1,0 +1,28 @@
+{
+  "name": "zeng-first",
+  "displayName": "zeng snippets",
+  "description": "this is my snippets",
+  "version": "0.0.4",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "vue",
+        "path": "./snippets/zeng.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/zeng-template.json"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/zeng-script.json"
+      }
+    ]
+  }
+}
