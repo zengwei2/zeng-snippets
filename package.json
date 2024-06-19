@@ -2,8 +2,9 @@
   "name": "zeng-first",
   "displayName": "zeng snippets",
   "description": "this is my snippets",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "publisher": "zeng-first",
+  "icon": "images/vue-logo.png",
   "engines": {
     "vscode": "^1.90.0"
   },

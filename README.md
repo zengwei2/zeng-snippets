@@ -1,5 +1,7 @@
 # Vue VSCode Snippets
 
+![SnippetDemo](https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/SnippetDemo.gif)
+
 ## Snippets
 
 ### Vue
