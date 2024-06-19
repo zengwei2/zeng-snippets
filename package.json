@@ -2,7 +2,8 @@
   "name": "zeng-first",
   "displayName": "zeng snippets",
   "description": "this is my snippets",
-  "version": "0.0.4",
+  "version": "0.0.2",
+  "publisher": "zeng-first",
   "engines": {
     "vscode": "^1.90.0"
   },

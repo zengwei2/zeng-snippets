@@ -1,0 +1,21 @@
+{
+  "Vue v-for": {
+    "prefix": "zfor",
+    "body": [
+      "<${1:div} v-for=\"${2:item} in ${2:item}s\" :key=\"${2:item}.id\">",
+      "\t{{ ${2:item} }}",
+      "</${1:div}>"
+    ],
+    "description": "vfor statement"
+  },
+  "Vue v-model Directive": {
+    "prefix": "zmodel",
+    "body": ["<input v-model=\"${1:data}\" type=\"text\" />"],
+    "description": "v-model directive"
+  },
+  "Vue z-on Shortcut Directive": {
+    "prefix": "zon",
+    "body": ["@click=\"${1:handler}(${2:arg}, $event)\""],
+    "description": "v-on click handler with arguments"
+  }
+}
